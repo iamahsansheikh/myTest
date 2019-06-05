@@ -12,7 +12,7 @@ Run the following command to run the project from Command Line:
 2- Run from Command Line
 	mvn spring-boot:run
 	
-3- End Points
+3- End Points:
   i - Get All Persons from Database
    	   localhost:5000/api/persons
    	   
